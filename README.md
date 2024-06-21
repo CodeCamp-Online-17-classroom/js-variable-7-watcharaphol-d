@@ -10,5 +10,9 @@ console.log(`result is ${1 + 3}`);
 console.log(`I live in ${country}`);
 console.log(`I live in ${country}, ${continent}`);
 console.log(`I live in ${country + ', ' + continent}`);
-console.log(`I live in ${'country, continent'}`);"
+console.log(`I live in ${'country, continent'}`);
 ```
+
+### Homework Finished 21/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
